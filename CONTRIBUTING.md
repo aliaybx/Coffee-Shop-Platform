@@ -108,14 +108,3 @@ coffee-shop-platform/
 └── users/
 ```
 
-## Files NOT to Upload
-
-The following should be generated locally or ignored:
-
-```
-/vendor/           # Composer dependencies
-/node_modules/      # NPM packages
-*.log               # Log files
-.env                # Environment variables
-.DS_Store          # macOS system files
-```
